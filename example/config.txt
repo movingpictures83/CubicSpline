@@ -1,0 +1,2 @@
+Prefix plugins/CubicSpline/example/
+Plugin CubicSpline inputfile parameters.txt outputfile plots.csv

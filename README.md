@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT (parameters)
 # Output: CSV (splines)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: graphics_4.0.0
 
 PluMA plugin to run cubic spline interpolation.  For flexibility with respect
 to machine learning, CubicSpline merges a "clinical" and a "training" set for
